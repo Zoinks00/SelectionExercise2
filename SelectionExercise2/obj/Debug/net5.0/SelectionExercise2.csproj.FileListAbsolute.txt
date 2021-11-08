@@ -1,0 +1,16 @@
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\bin\Debug\net5.0\SelectionExercise2.exe
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\bin\Debug\net5.0\SelectionExercise2.deps.json
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\bin\Debug\net5.0\SelectionExercise2.runtimeconfig.json
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\bin\Debug\net5.0\SelectionExercise2.runtimeconfig.dev.json
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\bin\Debug\net5.0\SelectionExercise2.dll
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\bin\Debug\net5.0\ref\SelectionExercise2.dll
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\bin\Debug\net5.0\SelectionExercise2.pdb
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\obj\Debug\net5.0\SelectionExercise2.csproj.AssemblyReference.cache
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\obj\Debug\net5.0\SelectionExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\obj\Debug\net5.0\SelectionExercise2.AssemblyInfoInputs.cache
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\obj\Debug\net5.0\SelectionExercise2.AssemblyInfo.cs
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\obj\Debug\net5.0\SelectionExercise2.csproj.CoreCompileInputs.cache
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\obj\Debug\net5.0\SelectionExercise2.dll
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\obj\Debug\net5.0\ref\SelectionExercise2.dll
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\obj\Debug\net5.0\SelectionExercise2.pdb
+C:\Users\forre\repos\SelectionExercise2\SelectionExercise2\obj\Debug\net5.0\SelectionExercise2.genruntimeconfig.cache
